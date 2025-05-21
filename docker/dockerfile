@@ -1,3 +1,6 @@
+# docker build -t pet-care-app .
+# docker run -p 5000:5000 pet-care-app
+
 # Use an official Python runtime as a parent image
 FROM python:3.9-slim
 
